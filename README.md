@@ -1,6 +1,6 @@
 # Amazon-Scrapper-for-Departments
 The tool is developed for a client. It served the purpose of crawling specified departments and stores on Amazon. 
-Requirement
+Requirement  
   1. Python3.0+  
   2.Selenium  
   3.FakeUserAgent  
